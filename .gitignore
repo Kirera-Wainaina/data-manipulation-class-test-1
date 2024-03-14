@@ -3,3 +3,6 @@ env/
 
 # notebook checkpoint
 .ipynb_checkpoints/
+
+# ignore the pdf
+*.pdf
