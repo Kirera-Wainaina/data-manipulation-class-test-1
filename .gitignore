@@ -1,0 +1,5 @@
+# env directory
+env/
+
+# notebook checkpoint
+.ipynb_checkpoints/
